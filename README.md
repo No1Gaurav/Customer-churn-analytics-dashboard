@@ -43,15 +43,12 @@ Due to size constraints, datasets are not uploaded in this repository.
 
 ### 🔹 Full Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
-### 🔹 Engagement vs Revenue (Scatter Plot)
-
-![Scatter](images/scatter.png)
 
 ### 🔹 User Conversion Funnel
 
-![Funnel](images/funnel.png)
+![Funnel](Funnel.png)
 
 ---
 
@@ -80,10 +77,10 @@ Due to size constraints, datasets are not uploaded in this repository.
 ## 🔗 Project Links
 
 * 📓 Google Colab Notebook:
-  [Add your Colab link here]
+  [[Colab link](https://colab.research.google.com/drive/1rmGJ_FuCUT6YbJLsz59l7Q2qtX5q5GI9?usp=sharing)]
 
 * 📊 Power BI Dashboard:
-  Included as screenshots above
+  ![Dashboard](Dashboard.png)
 
 ---
 
